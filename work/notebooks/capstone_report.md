@@ -3,7 +3,7 @@
 - **Author:** Mansi Negi
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/MansiNegi281/flyrank_ml_internship
-- **Date:** [15th August 2026]
+- **Date:** 15th August 2026
 
 ## 1. Problem framing
 Unit of analysis: one content page (`content_id`), aggregated over a 90-day
